@@ -1,2 +1,2 @@
 *.js linguist-detectable=false
-*.cplusplus linguist-detectable=false
+*.cplusplus linguist-detectable=true
